@@ -4,9 +4,9 @@
 
 Para rodar esse projeto em sua máquina execute o arquivo:
 
-<a href="forca_nomes.py" style>Nosso jogo aqui</a><br>
+<a href="forca_nomes.py" style>forca_nomes</a><br>
 <br>
-<a href="nomes.txt" style>Nomes ou palavras chave</a><br>
+<a href="nomes.txt" style>Palavras Chaves</a><br>
 <br>
 
 
