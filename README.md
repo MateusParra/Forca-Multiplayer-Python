@@ -72,3 +72,9 @@ git status
 
 > mostra os status <br>
 <br>
+
+```
+git branch -m nome da branch
+```
+
+> altera a branch
