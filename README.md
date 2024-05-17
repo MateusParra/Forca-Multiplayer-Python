@@ -4,8 +4,11 @@
 
 Para rodar esse projeto em sua máquina execute o arquivo:
 
-<a href="forca_nomes.py" style>forca_nomes</a><br>
+<a href="forca_nomes.py" style>Forca Nomes</a><br>
 <br>
+
+Palavras:
+
 <a href="nomes.txt" style>Palavras Chaves</a><br>
 <br>
 
