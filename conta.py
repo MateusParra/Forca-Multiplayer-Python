@@ -48,8 +48,6 @@ class Conta(Informacoes):
     def data_aniversario(self):
         return self._data_aniversario
 
-
-
     @property
     def permissao(self):
         return self._permissao
